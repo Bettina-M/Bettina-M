@@ -12,3 +12,13 @@
 
 ### A front-end developer passionate about building beautiful user-friendly web applications.
 </div>
+
+  - I'm currently an online student at BYU pathway, studying software development.
+<div align="center">
+  <a href="betinalucher@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/bettina-menya/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+</div>
